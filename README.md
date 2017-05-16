@@ -17,9 +17,7 @@ Golang : Algorithms and Data Structure
 * Hash
   + Hash map
 * Search
-  + Linear search
-  + Binary search
-  + Ternary Search
+  + Linear, Binary, Ternary search
 * Sequences
   + Longest increasing subsequence
   + Longest common subsequence
@@ -31,11 +29,6 @@ Golang : Algorithms and Data Structure
     * Hamming distance
     * Damerau–Levenshtein distance
 * Sorting
-  + Selection sort
-  + Insertion sort
-  + Bubble sort
-  + Bucket sort
-  + Heap sort
-  + Merge sort
-  + Radix sort
-  + Shell sort  
+  + Selection, Insertion, Bubble sorts
+  + Bucket, Radix, Shell sort
+  + Heap, Merge sorts
