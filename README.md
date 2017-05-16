@@ -3,15 +3,7 @@ Golang : Algorithms and Data Structure
 
 ## Content
 
-* Sorting
-  + Selection sort
-  + Insertion sort
-  + Bubble sort
-  + Bucket sort
-  + Heap sort
-  + Merge sort
-  + Radix sort
-  + Shell sort
+
 * Graphs
   + Shortest paths
   + Minimum spanning tree
@@ -38,4 +30,12 @@ Golang : Algorithms and Data Structure
     * Levenshtein distance
     * Hamming distance
     * Damerau–Levenshtein distance
-  
+* Sorting
+  + Selection sort
+  + Insertion sort
+  + Bubble sort
+  + Bucket sort
+  + Heap sort
+  + Merge sort
+  + Radix sort
+  + Shell sort  
