@@ -7,15 +7,19 @@ Golang : Algorithms and Data Structure
 * Graphs
   + Shortest paths
   + Minimum spanning tree
+    * Kruskal, prim 
   + Cycle detection
-  + Traversal
-    * Breadth First
-    * Depth First
+  + Breadth, Depth first Traversal
 * Tree
-  + Binary tree
-  + Binary search tree
+  + Binary, Binary search tree
+  + B, B+, 2-3, AVL, Red-black tree
+  + Trie, Treap, Rope 
+* Geometry
+  + Closest pair problem
 * Hash
-  + Hash map
+  + Hash table
+  + Double, Rolling hash 
+  + Hash tree, trie
 * Search
   + Linear, Binary, Ternary search
 * Sequences
@@ -24,10 +28,7 @@ Golang : Algorithms and Data Structure
   + Longest palindromic subsequence
 * Strings
   + Strings Similarity
-    * Jaro distance
-    * Levenshtein distance
-    * Hamming distance
-    * Damerau–Levenshtein distance
+    * Jaro, Levenshtein, Hamming, Damerau–Levenshtein distance
 * Sorting
   + Selection, Insertion, Bubble sorts
   + Bucket, Radix, Shell sort
