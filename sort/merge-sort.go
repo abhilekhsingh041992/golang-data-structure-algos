@@ -45,10 +45,10 @@ func merge_segs(left []int, right []int) ([]int) {
 func main() {
   array := []int{11, 6, 8, 1, 2, 2, 4, 9}
 
-  fmt.Println("Unsoeted array")
+  fmt.Println("Unsorted array")
   fmt.Println(array)
 
-  fmt.Println("\nMerge basic")
+  fmt.Println("\n Post Merge basic")
   array = merge(array)
 
   fmt.Println(array)
